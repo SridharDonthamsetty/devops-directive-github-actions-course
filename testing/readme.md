@@ -1,11 +1,2 @@
-this line is from local
-n this line added from local
-third line added from local
-a line from test branch
-second line from test branch
-third line from test branch
-forth line from test branch
-new line added from Main
-testing --soft reset
-testing --soft reset part-2
-created new line after deletion content in web
+Deleted all lines from web
+>>>>>>> refs/remotes/sridhar/test

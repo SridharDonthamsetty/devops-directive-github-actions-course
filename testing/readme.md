@@ -6,3 +6,4 @@ second line from test branch
 third line from test branch
 forth line from test branch
 new line added from Main
+testing --soft reset

@@ -7,3 +7,4 @@ third line from test branch
 forth line from test branch
 new line added from Main
 testing --soft reset
+testing --soft reset part-2
